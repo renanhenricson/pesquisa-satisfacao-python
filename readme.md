@@ -19,7 +19,7 @@ As opções são:
 Ao final, o programa mostra a quantidade de respostas de cada opção.
 
 Também é possível realizar uma nova pesquisa ou finalizar o programa.
-## 📺 Demonstração
+## 📺 Demonstração com 10 entrevistados
 ![Demonstração](assets/demonstração.gif)
 
 ## 💻 Tecnologias
