@@ -43,7 +43,13 @@ while True:
 ####### Pergunta se ira continuar apos o total X de pesssoas ########
 
     continuar = input("\nDeseja realizar uma nova pesquisa? (S/N): ").strip().lower()
-
+    if continuar == "s":
+        excelente = 0
+        bom = 0
+        ruim = 0
+        
+        continue
+    
     if continuar == "n":
         print("Pesquisa finalizada!")
         break
